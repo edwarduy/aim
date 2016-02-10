@@ -1,2 +1,2 @@
 # aim
-Aim files
+Aim files from Jai Parkash, CQ Expert and SME
